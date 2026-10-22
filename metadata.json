@@ -1,0 +1,6 @@
+{
+  "name": "Peta Sejarah Nusantara & Ekspedisi Samudra",
+  "description": "Peta interaktif pelayaran bangsa asing ke Nusantara, medan pertempuran kolonial, dan garis waktu lengkap menuju Proklamasi Kemerdekaan Indonesia 1945.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
